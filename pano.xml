@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.9" apprev="20995" start="node1">
+  <panorama id="node1">
+    <input width="3535" levelbiashidpi="1.000" height="3535" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="3535" height="3535" preload="0"/>
+      <level predecode="0" width="1767" height="1767" preload="0"/>
+      <level predecode="0" width="883" height="883" preload="0"/>
+      <level predecode="1" width="441" height="441" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-178.329" fovmode="2">
+      <start projection="4" fov="117.015" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" source="" comment="" datetime="" tags="3-Panoramicas" author="" customnodeid="" longitude="-51.93530509" nodeid="node1" title="RICHARDS" heading="-178.329" latitude="-23.42377083" copyright="" info=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" width="180" borderradius="1" backgroundalpha="1" height="20" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" borderalpha="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="$fwd" skinid="ht_node" tilt="0" distance="11.2215" title="RICHARDS" url="{node2}" pan="-357.631"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" type="crossdissolve" softedge="0" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomfov="40" zoomspeed="2" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" contextprojections="0" speedwheel="1" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="3535" levelbiashidpi="1.000" height="3535" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="3535" height="3535" preload="0"/>
+      <level predecode="0" width="1767" height="1767" preload="0"/>
+      <level predecode="0" width="883" height="883" preload="0"/>
+      <level predecode="1" width="441" height="441" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-179.835" fovmode="2">
+      <start projection="4" fov="108.174" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" source="" comment="" datetime="" tags="3-Panoramicas" author="" customnodeid="" longitude="-51.93530375" nodeid="node2" title="RICHARDS" heading="-179.835" latitude="-23.42387174" copyright="" info=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" width="180" borderradius="1" backgroundalpha="1" height="20" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" borderalpha="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="$fwd" skinid="ht_node" tilt="0" distance="11.2215" title="RICHARDS" url="{node1}" pan="-179.137"/>
+      <hotspot id="Point02" description="" target="$fwd" skinid="ht_node" tilt="0" distance="9.98988" title="RICHARDS" url="{node3}" pan="-269.835"/>
+      <hotspot id="Point04" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.8002" title="RICHARDS" url="{node5}" pan="-22.1724"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" type="crossdissolve" softedge="0" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomfov="40" zoomspeed="2" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" contextprojections="0" speedwheel="1" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="3535" levelbiashidpi="1.000" height="3535" levelbias="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="3535" height="3535" preload="0"/>
+      <level predecode="0" width="1767" height="1767" preload="0"/>
+      <level predecode="0" width="883" height="883" preload="0"/>
+      <level predecode="1" width="441" height="441" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-178.863" fovmode="2">
+      <start projection="4" fov="108.174" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" source="" comment="" datetime="" tags="3-Panoramicas" author="" customnodeid="" longitude="-51.93520584" nodeid="node3" title="RICHARDS" heading="-178.863" latitude="-23.42387174" copyright="" info=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" width="180" borderradius="1" backgroundalpha="1" height="20" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" borderalpha="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="$fwd" skinid="ht_node" tilt="0" distance="9.98988" title="RICHARDS" url="{node2}" pan="-88.863"/>
+      <hotspot id="Point02" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.1897" title="RICHARDS" url="{node4}" pan="-20.955"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" type="crossdissolve" softedge="0" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomfov="40" zoomspeed="2" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" contextprojections="0" speedwheel="1" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="3535" levelbiashidpi="1.000" height="3535" levelbias="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="3535" height="3535" preload="0"/>
+      <level predecode="0" width="1767" height="1767" preload="0"/>
+      <level predecode="0" width="883" height="883" preload="0"/>
+      <level predecode="1" width="441" height="441" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-175.836" fovmode="2">
+      <start projection="4" fov="117.015" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" source="" comment="" datetime="" tags="3-Panoramicas" author="" customnodeid="" longitude="-51.93524340" nodeid="node4" title="RICHARDS" heading="-175.836" latitude="-23.42395665" copyright="" info=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" width="180" borderradius="1" backgroundalpha="1" height="20" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" borderalpha="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.1897" title="RICHARDS" url="{node3}" pan="-197.928"/>
+      <hotspot id="Point03" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.2769" title="RICHARDS" url="{node5}" pan="-82.7783"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" type="crossdissolve" softedge="0" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomfov="40" zoomspeed="2" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" contextprojections="0" speedwheel="1" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="3535" levelbiashidpi="1.000" height="3535" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="3535" height="3535" preload="0"/>
+      <level predecode="0" width="1767" height="1767" preload="0"/>
+      <level predecode="0" width="883" height="883" preload="0"/>
+      <level predecode="1" width="441" height="441" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-178.623" fovmode="2">
+      <start projection="4" fov="108.174" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" source="" comment="" datetime="" tags="3-Panoramicas" author="" customnodeid="" longitude="-51.93534398" nodeid="node5" title="RICHARDS" heading="-178.623" latitude="-23.42396158" copyright="" info=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" width="180" borderradius="1" backgroundalpha="1" height="20" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" borderalpha="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.3998" title="RICHARDS" url="{node6}" pan="0.623739"/>
+      <hotspot id="Point02" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.2769" title="RICHARDS" url="{node4}" pan="-265.565"/>
+      <hotspot id="Point03" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.8002" title="RICHARDS" url="{node2}" pan="-200.96"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" type="crossdissolve" softedge="0" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomfov="40" zoomspeed="2" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" contextprojections="0" speedwheel="1" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="3535" levelbiashidpi="1.000" height="3535" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="3535" height="3535" preload="0"/>
+      <level predecode="0" width="1767" height="1767" preload="0"/>
+      <level predecode="0" width="883" height="883" preload="0"/>
+      <level predecode="1" width="441" height="441" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-179.958" fovmode="2">
+      <start projection="4" fov="117.015" tilt="0.502707" pan="-3.40592"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" source="" comment="" datetime="" tags="3-Panoramicas" author="" customnodeid="" longitude="-51.93534532" nodeid="node6" title="RICHARDS" heading="-179.958" latitude="-23.42405510" copyright="" info=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" width="180" borderradius="1" backgroundalpha="1" height="20" background="1" bordercolor="0x000000" wordwrap="1" enabled="1" borderalpha="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="$fwd" skinid="ht_node" tilt="0" distance="10.3998" title="RICHARDS" url="{node5}" pan="-180.711"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" type="crossdissolve" softedge="0" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomfov="40" zoomspeed="2" blendtime="1" zoomout="0" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" contextprojections="0" speedwheel="1" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" tags="" comment="" copyright="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
